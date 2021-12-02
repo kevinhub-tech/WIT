@@ -36,4 +36,4 @@ It was an unexpected project for us to undertake as we have been struggling with
 
 # REMINDER
 
-The project was accomplished but there are some minor error in the website such as Burmese font: not working in some computer. Apart from that, everything is accessible from the source code.
+The project was accomplished but there are a minor error in the website such as Burmese font not working in some computer. Apart from that, everything is accessible from the source code.

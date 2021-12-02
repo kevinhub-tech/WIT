@@ -32,4 +32,8 @@ The projects was developed with purely front-end programming languages
 
 It was an unexpected project for us to undertake as we have been struggling with loads of academic project. But however, We've managed to pull through and submit the project to the panels of judges. The project was nominated to be awarded to "Team Award" Category. The team performs in such synergy and made the website in three days. And the website turns out to be as below.
 
-<img src="https://github.com/kevinhub-tech/WDD/blob/master/Home.png?raw=true" width="50%">
+<img src="https://github.com/kevinhub-tech/WIT/blob/main/WIT.png">
+
+# REMINDER
+
+The project was accomplished but there are some minor error in the website such as Burmese font: not working in some computer. Apart from that, everything is accessible from the source code.

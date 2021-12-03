@@ -1,6 +1,8 @@
 # WIT
 > Web Innovative Talent Award Project
 
+<img src="https://github.com/kevinhub-tech/WIT/blob/main/github_wit.png" width="65%">
+
 ### WIT Detail
 WIT was held in early 2020, in Dec 2019 to be exact. It was postponed due to the <b> Covid-19 </b> constraints. And the tournament entry was extended from Dec 2019 to March 2020. So, I and former classmates formed a group to compete in the competition. The awards were diversed into four categories which are 
 

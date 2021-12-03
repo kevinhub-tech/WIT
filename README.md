@@ -34,6 +34,6 @@ It was an unexpected project for us to undertake as we have been struggling with
 
 <img src="https://github.com/kevinhub-tech/WIT/blob/main/WIT.png">
 
-# REMINDER
+# DISCLAIMER
 
 The project was accomplished but there are a minor error in the website such as Burmese font not working in some computer. Apart from that, everything is accessible from the source code.
